@@ -11,13 +11,17 @@ Read this for clearer execution of code files.
 
 Project flow
 1: exploration.ipynb
+
 2: TCN files(were developed earlier, so some considerations are carried over to next part, but can also run TCNAE files first...)
-    - TCN.ipynb
-    - TCNtraining.ipynb     - uses tcn00.keras and TCN0.keras models
-    - TCNtesting.ipynb      - uses TCN0.keras models
+
+- TCN.ipynb
+- TCNtraining.ipynb     - uses tcn00.keras and TCN0.keras models
+- TCNtesting.ipynb      - uses TCN0.keras models
+  
 3: TCNAE files
-    - TCNAE.ipynb
-    - TCNAEtraining&tuning.ipynb    - uses tcnae00x.keras and TCNAE00.keras models
-    - TCNAEtesting.ipynb            - uses TCNAE00.keras models
+
+- TCNAE.ipynb
+- TCNAEtraining&tuning.ipynb    - uses tcnae00x.keras and TCNAE00.keras models
+- TCNAEtesting.ipynb            - uses TCNAE00.keras models
 
 E. Mosca
