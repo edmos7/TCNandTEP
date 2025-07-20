@@ -1,4 +1,6 @@
-Foundations of Deep Learning 24/25 - Data Science MSc unimib
+Foundations of Deep Learning 24/25 Course Project - Data Science MSc unimib
+
+This collection of python notebooks show the process behind the development of two TCN-based models for time-series classification and unsupervised anomaly detection.
 
 Read this for clearer execution of code files. 
 
