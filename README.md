@@ -18,6 +18,19 @@ exploration.ipynb --> (TCN.ipynb -> TCNtraining.ipynb -> TCNtesting.ipynb) OR (T
 
 Given this was developed in a couple of weeks during a frantic exam session, notebooks aren't the most commented ever, but I hope the process is still understandable. Also, given I've rearranged the file structure recently(so a bit of time after the development of the project i.e. July '25) there might be data loading errors because of incorrect pahts(for which I apologize), but they should be quick fixes.
 
+### Evaluation
+
+| Model | Parameters | 20-way Train Accuracy | 20-way Test Accuracy |
+|:------|------------:|----------------------:|---------------------:|
+| TCN   | 1,195,006   | 0.9462               | 0.9312              |
+
+
+| Model  | Parameters | Train AUC (1-FAR:Latency) | Test FAR | Test Latency (avg) | Test Latency (anomaly detected) |
+|:-------|------------:|--------------------------:|----------:|-------------------:|--------------------------------:|
+| TCN-AE | 718,798   | 0.654                    | 0.002     | 14.43 hrs          | 1.74 hrs                        |
+
+
+
 E. Mosca
 
 
