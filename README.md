@@ -16,6 +16,8 @@ exploration.ipynb --> (TCN.ipynb -> TCNtraining.ipynb -> TCNtesting.ipynb) OR (T
 
 *TCN files(were developed earlier, so some considerations are carried over to next part, but can also run TCNAE files first...)*
 
+Given this was developed in a couple of weeks during a frantic exam session, notebooks aren't the most commented ever, but I hope the process is still understandable. Also, given I've rearranged the file structure recently(so a bit of time after the development of the project i.e. July '25) there might be data loading errors because of incorrect pahts(for which I apologize), but they should be quick fixes.
+
 E. Mosca
 
 
