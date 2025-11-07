@@ -33,4 +33,6 @@ Given this was developed in a couple of weeks during a frantic exam session, not
 
 E. Mosca
 
+### References
 
+Bai et al. 2018, Thill et al. 2021, Rieth et al. 2017
