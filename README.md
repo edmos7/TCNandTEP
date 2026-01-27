@@ -1,6 +1,6 @@
 Foundations of Deep Learning 24/25 Course Project - Data Science MSc unimib
 
-This collection of python notebooks show the process behind the development of two TCN-based models for time-series classification(using a TCN) and unsupervised anomaly detection(using a TCNAE).
+This collection of python notebooks shows the process behind the development of two TCN-based models for time-series classification(using a TCN) and unsupervised anomaly detection(using a TCN-AutoEncoder).
 
 Read this for clearer navigation. 
 
@@ -16,7 +16,7 @@ exploration.ipynb --> (TCN.ipynb -> TCNtraining.ipynb -> TCNtesting.ipynb) OR (T
 
 *TCN files(were developed earlier, so some considerations are carried over to next part, but can also run TCNAE files first...)*
 
-Given this was developed in a couple of weeks during a frantic exam session, notebooks aren't the most commented ever, but I hope the process is still understandable. Also, given I've rearranged the file structure recently(so a bit of time after the development of the project i.e. July '25) there might be data loading errors because of incorrect pahts(for which I apologize), but they should be quick fixes.
+Given this was developed in a couple of weeks during a frantic exam session, notebooks aren't the most commented ever, but I hope the process is still understandable. Also, given I've rearranged the file structure recently(so a bit of time after the development of the project i.e. July '25) there *might* be data loading errors because of incorrect paths(for which I apologize), but they should be quick fixes.
 
 ### Evaluation
 
@@ -35,4 +35,8 @@ E. Mosca
 
 ### References
 
-Bai et al. 2018, Thill et al. 2021, Rieth et al. 2017
+Bai et al. 2018 https://doi.org/10.48550/arXiv.1803.01271 
+
+Thill et al. 2021 https://doi.org/10.1016/j.asoc.2021.107751
+
+Rieth et al. 2017 https://doi.org/10.7910/DVN/6C3JR1
