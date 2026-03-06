@@ -2,6 +2,8 @@ Foundations of Deep Learning 24/25 Course Project - Data Science MSc unimib
 
 This collection of python notebooks shows the process behind the development of two TCN-based models for time-series classification(using a TCN) and unsupervised anomaly detection(using a TCN-AutoEncoder).
 
+The dataset is the Tennessee Eastman Process from Rieth et al. 2017 [(link)](https://www.kaggle.com/datasets/edmos07/tennesseeeastmanprocessrieth-et-al-2017-parquet)
+
 Read this for clearer navigation. 
 
 - Download/clone files in a folder
